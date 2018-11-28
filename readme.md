@@ -1,1 +1,1 @@
-This Jupyter notebook contains Credit Card Fraud Detection method dataset from kaggle competition 
+This Jupyter notebook contains Credit Card Fraud Detection compares 2 different Machine learnibg akgorithm methods, dataset from kaggle competition 
